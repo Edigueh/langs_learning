@@ -1,0 +1,14 @@
+.DS_Store
+# Cargo build output
+target/
+**/target/
+
+# Cargo lock — keep for binaries, ignore for libraries
+# Uncomment if this is a library crate:
+Cargo.lock
+
+# Backup files
+**/*.rs.bk
+
+# MSVC debug info
+*.pdb
