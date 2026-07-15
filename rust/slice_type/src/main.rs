@@ -1,4 +1,5 @@
 fn main() {
+    let var = String::from("asas");
     let mut s = String::from("hello world");
 
     // fwlen will get the value 5
